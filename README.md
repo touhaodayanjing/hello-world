@@ -1,4 +1,3 @@
 # hello-world
 Just anthor repositry
-
-今天天气不错！
+版本三添加了一个文件
